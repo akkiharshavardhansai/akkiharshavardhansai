@@ -14,3 +14,5 @@ git init
 14git status
 git add . 
 git status
+git commit -m "first message "
+git status 
