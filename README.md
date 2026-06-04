@@ -2,7 +2,7 @@
 
 🎓 B.Tech Computer Science and Engineering Graduate
 
-🤖 Currently learning Artificial Intelligence and Machine Learning
+🤖 Pursuing Artificial Intelligence and Machine Learning Certification from IIT Patna
 
 💻 Interested in Software Development, AI, Data Analytics, and Machine Learning
 
