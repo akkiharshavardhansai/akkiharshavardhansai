@@ -64,7 +64,6 @@ Bookstore management system built using SQLite and Python.
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akkiharshavardhansai\&show_icons=true)
+![Akki's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akkiharshavardhansai&show_icons=true&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akkiharshavardhansai\&layout=compact)
-v
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akkiharshavardhansai&layout=compact&theme=github_dark)
