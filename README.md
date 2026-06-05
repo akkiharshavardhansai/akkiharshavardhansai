@@ -61,9 +61,3 @@ Bookstore management system built using SQLite and Python.
 ## Connect With Me 
 
 📧 Email: [akkiharshavardhan@gmail.com](mailto:akkiharshavardhan@gmail.com)
-
-## GitHub Stats
-
-![Akki's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akkiharshavardhansai&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akkiharshavardhansai&layout=compact&theme=github_dark)
