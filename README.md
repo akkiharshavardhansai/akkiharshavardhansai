@@ -58,7 +58,7 @@ SQLite database creation and data analysis using SQL and Pandas.
 
 Bookstore management system built using SQLite and Python.
 
-## Connect With Me
+## Connect With Me 
 
 📧 Email: [akkiharshavardhan@gmail.com](mailto:akkiharshavardhan@gmail.com)
 
